@@ -16,13 +16,13 @@
     "ios",
     "signature"
   ],
-  "peerDependencies": {
-    "react-native": ">=0.17"
-  },
   "author": "RepairShopr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RepairShopr/react-native-signature-capture/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.31.0"
   },
   "homepage": "https://github.com/RepairShopr/react-native-signature-capture#readme"
 }
